@@ -55,7 +55,7 @@
 
 ![Consulta 6](img/consulta_6.png  "Consulta 6")
 
-Obtener el nombre de los articuls en dolares.
+7. Obtener el nombre de los articulos en dolares.
 
 `SELECT nombre_articulo AS Articulo, precio_articulo / 4300 AS Precio_USD FROM Articulo;`
 
